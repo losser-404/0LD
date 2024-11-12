@@ -1,0 +1,1 @@
+Sorry Baby 32 Bit Not Supported! 🥺💔 \033[1;90m]");exit()
